@@ -1,6 +1,6 @@
 # ATC Simulator
 
-## Air Traffic Control (ATC) Simulator for my A-Level Computer Science NEA project
+## Air Traffic Control (ATC) Simulator – A-Level Computer Science NEA project
 
 ### Description:
 Air Traffic Control is notorious for being one of the most stressful jobs in the world,
